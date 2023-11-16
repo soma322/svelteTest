@@ -22,9 +22,7 @@
 				<h1 class="text-2xl font-semibold tracking-tight">
 					Crear cuenta
 				</h1>
-				<p class="text-sm text-muted-foreground">
-                    Escriba su correo a continuacion para crear una cuenta
-				</p>
+				
 			</div>
 			<UserAuthForm />
 			<p class="px-8 text-center text-sm text-muted-foreground">
